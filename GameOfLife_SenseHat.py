@@ -2,6 +2,9 @@ from sense_emu import SenseHat
 import numpy as np
 import time
 
+#hecho por Jonatan Polanco
+#https://github.com/JonatanPolanco?tab=repositories
+
 #Definición de variables
 x = y = 0
 nxC, nyC = 8, 8    #celdas del sense HAT
